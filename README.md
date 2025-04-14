@@ -5,8 +5,6 @@ This Python program is a simple calculator that performs basic mathematical oper
 
 Example Output
 When you run the program, it will prompt you to enter two numbers. Here’s an example of what the output might look like:
-Run
-Copy code
 Enter the first number: 10
 Enter the second number: 5
 
@@ -23,9 +21,8 @@ This Python program creates a personalized greeting for the user. It takes the u
 
 Example Output
 When you run the program, it will prompt you to enter your first and last names. Here’s an example of what the output might look like:
-Run
-Copy code
 Enter your first name: John
 Enter your last name: Doe
 
+Results:
 Hello, John Doe! Welcome to our program!
